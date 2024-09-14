@@ -1,0 +1,118 @@
+.header{
+    height:100px;
+    width:100%;
+    background-color: blueviolet;
+    float: left;
+    text-align: center;
+    font-size:larger
+}
+
+.new{
+    height:550px;
+    width:100%;
+    float:left;
+    background-color: aqua;
+}
+
+.first{
+    height:550px;
+    width:45%;
+    float: left;
+    background-color: yellow;
+
+}
+
+.form{
+    height:550px;
+    width:55%;
+    float: left;
+    background-color: blue;
+}
+
+.footer{
+    height:300px;
+    width:100%;
+    float: left;
+    background-color: brown;
+    font-size: 20px;;
+}
+
+.footer h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.oops{
+    border-radius: 20px;
+    outline: none;
+    width:30%;
+    height:40px ;
+    border: none;
+    padding-right: 2px;
+    margin-left:20px;
+}
+.yes{
+    border-radius: 20px;
+    outline:none;
+    width:30%;
+    height:40px;
+    border:none;
+    margin-left:60px;
+
+}
+
+.huh{
+    border-radius: 20px;
+    outline: none;
+    width:30%;
+    height:40px;
+    border:none;
+    margin-lefT:20px;
+}
+
+.ohh{
+    border-radius: 20px;
+    outline:none;
+    width:30%;
+    height:40px;
+    border:none;
+    margin-left:60px;
+}
+
+.no{
+    border-radius: 20px;
+    outline:none;
+    width:30%;
+    height:40px;
+    border:none;
+    margin-left:20px;
+
+}
+
+.gen{
+
+    margin-left:20px;
+
+}
+
+.number{
+    border-radius: 20px;
+    outline:none;
+    width:30%;
+    height:40px;
+    border:none;
+    margin-left:60px;
+}
+
+.bank{
+    margin-left:200px;
+}
+.one{
+    width: 70%;
+    height:100px;
+    box-sizing: border-box;
+    margin-bottom: 0;
+    outline:none;
+    border-radius: 20px;
+    margin-left:45px;
+}
